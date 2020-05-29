@@ -1,14 +1,14 @@
 # OutlineManager  
 ## 教学大纲管理系统
 ----
->  
-Qt5  
+>Qt5  
 winsock2  
 access数据库  
 服务端与客户端    
 图形化界面    
 多线程通信    
 数据库支持    
+
 
 + tips：  
 1.源码中默认设定服务器地址为本机，你可以在file_client.cpp中修改。    
