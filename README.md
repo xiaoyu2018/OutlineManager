@@ -1,4 +1,5 @@
-# OutlineManager
+# OutlineManager  
+>教学大纲管理系统
 ----
 # 这是一次高级程序设计课设
 + Qt5
